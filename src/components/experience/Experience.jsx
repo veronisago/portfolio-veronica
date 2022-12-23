@@ -70,7 +70,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>Postgres</h4>
+                <h4>PostgreSQL</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -85,13 +85,6 @@ const Experience = () => {
               <BsFillPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Sequelize</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsFillPatchCheckFill className='experience__details-icon'/>
-              <div>
-                <h4>PHP</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
