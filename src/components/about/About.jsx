@@ -21,28 +21,28 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>looking for my first work experience</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>200+ Woldwide</small>
+              <small>become my first customer!</small>
             </article>
 
             <article className='about__card'>
               <FiFolder className='about__icon' />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>4 personal projects completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rerum dolore 
-            quisquam veniam doloremque tenetur aliquam, quis deleniti similique 
-            alias earum! Repellendus aliquid, reiciendis veritatis nobis modi 
-            delectus eos esse architecto.
+          Currently I am dedicated to the design and programming of web applications,
+          from the client side (Front-end, UX / UI) and server side (Back-end). 
+          I am a professional with a high degree of responsibility, teamwork 
+          and self-taught, with a desire to contribute with my knowledge and 
+          skills while I continue learning and achieving my professional goals.
           </p>
-
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
