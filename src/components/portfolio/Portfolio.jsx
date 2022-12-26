@@ -57,7 +57,22 @@ const Portfolio = () => {
             return (
               <article key={id} className='portfolio__item'>
                 <div className="portfolio__item-image">
-                  <img src={image[0]} alt={title} />
+                  <Swiper
+                    className="portfolio__item-swiper"
+                    modules={[Pagination]}
+                    spaceBetween={40}
+                    slidesPerView={1}
+                    pagination={{ clickable: true }}
+                  >
+                    {image.map((e, index) => {
+                      return (
+                        <SwiperSlide key={index}>
+                          <img className='img-border' src={e} alt={title} />
+                        </SwiperSlide>
+                      )
+                    })}
+                  </Swiper> 
+                  {/* <img src={image[0]} alt={title} /> */}
                 </div>
                 <h3>{title}</h3>
                 <div className='portfolio__item-cta'>
