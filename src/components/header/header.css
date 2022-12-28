@@ -1,6 +1,5 @@
 header {
     height: 100vh;
-    padding-top: 7rem;
     overflow: hidden;
 }
 
@@ -40,7 +39,7 @@ header {
 .me {
     background: linear-gradient(var(--color-primary), transparent);
     width: 17rem;
-    height: 26rem;
+    height: 23rem;
     position: absolute;
     left: calc(55% - 11rem);
     margin-top: 4rem;
@@ -61,14 +60,14 @@ header {
 /*====================== MEDIA QUERIES (MEDIUM DEVICES) ================== */
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 59vh;
     }
 }
 
 /*====================== MEDIA QUERIES (SMALL DEVICES) ================== */
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 77vh;
     }
     .header__socials,
     .scroll__down {

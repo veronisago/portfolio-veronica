@@ -3,12 +3,12 @@ import './portfolio.css'
 import IMG1 from '../../assets/vero-project.png'
 import IMG2 from '../../assets/vero-project2.png'
 import IMG3 from '../../assets/vero-project3.png'
-import IMG4 from '../../assets/portfolio1.jpg'
-import IMG5 from '../../assets/portfolio2.jpg'
-import IMG6 from '../../assets/portfolio3.jpg'
-import IMG7 from '../../assets/portfolio4.jpg'
-import IMG8 from '../../assets/portfolio5.png'
-import IMG9 from '../../assets/portfolio6.jpg'
+import IMG4 from '../../assets/movie-2.png'
+import IMG5 from '../../assets/dogs-2.png'
+import IMG6 from '../../assets/inca-2.png'
+import IMG7 from '../../assets/movie-3.png'
+import IMG8 from '../../assets/dogs-3.png'
+import IMG9 from '../../assets/inca-3.png'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -30,7 +30,7 @@ const data = [
   },
   {
     id: 2,
-    image: [IMG2, IMG5, IMG8],
+    image: [IMG8, IMG5, IMG2],
     title: 'Dogs App',
     github: 'https://github.com/veronisago/PI-Dogs-main',
     demo: 'https://github.com/veronisago'
