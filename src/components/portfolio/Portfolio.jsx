@@ -40,7 +40,7 @@ const data = [
     image: [IMG3, IMG6, IMG9],
     title: 'Ecotourism App, Ecommerce Project',
     github: 'https://github.com/veronisago/PF-IncaAdventure',
-    demo: 'https://github.com/veronisago'
+    demo: 'https://pf-inca-adventure.vercel.app/home'
   }
 ]
 
