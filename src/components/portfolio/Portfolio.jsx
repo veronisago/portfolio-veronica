@@ -33,6 +33,7 @@ const data = [
     image: [IMG8, IMG5, IMG2],
     title: 'Dogs App',
     github: 'https://github.com/veronisago/PI-Dogs-main',
+    demo: 'https://pi-dogs-main-r030kxr58-veronisago.vercel.app/'
   },
   {
     id: 1,
