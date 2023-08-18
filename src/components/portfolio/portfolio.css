@@ -10,7 +10,7 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
-    width: 350px;
+    width: 418px;
 }
 
 .portfolio__item:hover {
@@ -24,17 +24,19 @@
 }
 
 .portfolio__item h3 {
-    margin: 0 0 2rem;
+    margin: 0 0 0.5rem;
 }
 
 .img-border{
     border-radius: 1.5rem;
+    height: 287px;
 }
 
 .portfolio__item-cta {
     display: flex;
     gap: 1rem;
     margin-bottom: 1rem;
+    margin-top: 0.5rem;
 }
 
 .portfolio__item-swiper{

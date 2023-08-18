@@ -21,24 +21,24 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>looking for my first work experience</small>
+              <small>1 year work experience</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Clients</h5>
-              <small>become my first customer!</small>
+              <small>become my next customer!</small>
             </article>
 
             <article className='about__card'>
               <FiFolder className='about__icon' />
               <h5>Projects</h5>
-              <small>4 personal projects completed</small>
+              <small>10+ projects completed</small>
             </article>
           </div>
           <p>
-          Currently I am dedicated to the design and programming of web applications,
-          from the client side (Front-end, UX / UI) and server side (Back-end). 
+          Currently I am dedicated to the programming of web applications,
+          specifically on the client side (Front-end, UX / UI). 
           I am a professional with a high degree of responsibility, teamwork 
           and self-taught, with a desire to contribute with my knowledge and 
           skills while I continue learning and achieving my professional goals.
