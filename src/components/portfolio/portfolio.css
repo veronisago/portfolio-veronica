@@ -6,6 +6,11 @@
     margin-left: 45px;
     margin-right: 45px;
 }
+.container-big{
+    width: 100%;
+    margin-left: 45px;
+    margin-right: 45px;
+}
 
 .portfolio__item {
     background: var(--color-bg-variant);
