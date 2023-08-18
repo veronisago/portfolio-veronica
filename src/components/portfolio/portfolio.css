@@ -2,12 +2,15 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2.5rem;
+    width: 100% !important;
+    margin-left: 45px !important;
+    margin-right: 45px !important;
 }
-.container-big{
+/* .container-big{
     width: 100%;
     margin-left: 45px;
     margin-right: 45px;
-}
+} */
 
 .portfolio__item {
     background: var(--color-bg-variant);
